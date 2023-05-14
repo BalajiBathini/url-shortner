@@ -16,7 +16,7 @@ This is a simple URL shortener web application built with html,css,javascript. I
 
 ## Git URL
 
-https://balajibathini.github.io/unit-converter/
+https://balajibathini.github.io/url-shortner/
 
 ## Usage
 
